@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+Este proyecto esta inspirado en la pagina : https://www.artidix.cl/
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
